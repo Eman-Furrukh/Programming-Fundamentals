@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{  int Roll_no, CGPA;
+	string Name;
+	cout<< Name;
+	cin>> Name;
+	cout<< Roll_no;
+	cin>> Roll_no;
+	cout<< CGPA;
+	cin>> CGPA;
+   return 0;
+}
